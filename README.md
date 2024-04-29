@@ -9,3 +9,5 @@
 5. Modelagem: Desenvolvimento e avaliação de modelos de machine learning para prever o churn de clientes. Esta etapa inclui a seleção de algoritmos adequados, ajuste de hiperparâmetros e validação cruzada.
 6. Avaliação: Avaliação de desempenho dos modelos desenvolvidos, utilizando métricas relevantes de acordo com o contexto do negócio. Comparação de diferentes abordagens e identificação do modelo mais eficaz.
 7. Deployment: Implantação do modelo selecionado em um ambiente de produção, integrando-o ao sistema de TI existente para fornecer insights em tempo real e suportar decisões estratégicas.
+
+<img src="/crisp_dm.jpg">
